@@ -47,7 +47,7 @@ inquirer
     ])
     .then(answers => {
         let site = answers.Site.split(" <--> ");
-        console.log(`--SITE TO BE SCRAPED--\nID: ${site[4]}\nBRAND: ${site[0]}\nSITE: ${site[1]}\nSTATUS: ${site[2]}\nURL: ${site[3]}`);
+        console.log(`--SITE TO BE SCRAPPED--\nID: ${site[4]}\nBRAND: ${site[0]}\nSITE: ${site[1]}\nSTATUS: ${site[2]}\nURL: ${site[3]}`);
         
         //updating screenshot map
         console.log("Updating screenshot map...");
