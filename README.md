@@ -30,4 +30,5 @@ To install node dependenccies navigate to app directory and run `npm install`.
 ![How to read the list](/images/guide.jpg)
 
 4. Site will be scrapped
+5. `git add, commit and push` changes
 
