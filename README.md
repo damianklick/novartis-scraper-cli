@@ -23,7 +23,7 @@ To install node dependenccies navigate to app directory and run `npm install`.
 ## Usage
 
 1. To start run `npm start`
-2. Select the brand you want to add from the list (to cancel the selection step press `ctrl+c`)
+2. Select the site brand from the list (to cancel the selection step press `ctrl+c`)
 3. Select the site you want to scrape from the list (to cancel the selection step press `ctrl+c`) 
     * Please see image below on how to read these options:
 
