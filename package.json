@@ -1,0 +1,16 @@
+{
+  "name": "novartis-scraper-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "ora": "^4.0.4"
+  }
+}

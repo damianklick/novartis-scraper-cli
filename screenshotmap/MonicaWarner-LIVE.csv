@@ -1,0 +1,22 @@
+Host,Path,Prefix,Desktop Filename,Tablet Filename,Mobile Filename
+http://www.warneradvocacyaward.com,/index.jsp?addCss=.commander-iframe|display|none&wait=4000,001,d001,DNT,DNT
+http://www.warneradvocacyaward.com,/index.jsp?addClass=.h:eq(1)|hover&addCss=.commander-iframe|display|none&wait=4000,001a,d001a,DNT,DNT
+http://www.warneradvocacyaward.com,/index.jsp?addClass=.h:eq(2)|hover&addCss=.commander-iframe|display|none&wait=4000,001b,d001b,DNT,DNT
+http://www.warneradvocacyaward.com,/index.jsp?addCss=backgroundPopup1|display|block&addCss=social_icon_popup1|display|block&addCss=.commander-iframe|display|none&wait=4000,001c,d001c,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/about-monica-warner.jsp?addCss=.commander-iframe|display|none&wait=4000,002,d002,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/current-warner-award-recipient-2016.jsp?addCss=.commander-iframe|display|none&wait=4000,003,d003,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/current-warner-award-recipient-2015.jsp?addCss=.commander-iframe|display|none&wait=4000,004,d004,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/warner-award-recipient-2014.jsp?addCss=.commander-iframe|display|none&wait=4000,005,d005,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/warner-award-recipient-2013.jsp?addCss=.commander-iframe|display|none&wait=4000,006,d006,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/warner-award-recipient-2012.jsp?addCss=.commander-iframe|display|none&wait=4000,007,d007,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/warner-award-recipient-2011.jsp?addCss=.commander-iframe|display|none&wait=4000,008,d008,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/warner-award-recipient-2010.jsp?addCss=.commander-iframe|display|none&wait=4000,009,d009,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/about-the-warner-award.jsp?addCss=.commander-iframe|display|none&wait=4000,010,d010,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/about-novartis-patient-advocacy.jsp?addCss=.commander-iframe|display|none&wait=4000,012,d012,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/about-the-netalliance.jsp?addCss=.commander-iframe|display|none&&wait=4000,013,d013,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/relevant-links.jsp?addCss=.commander-iframe|display|none&wait=4000,014,d014,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/nomination2017.jsp?addCss=.commander-iframe|display|none&wait=4000,015,d015,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/nomination2017.jsp?addCss=.commander-iframe|display|none&call=myFunction()&wait=4000,015a,d015a,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/nomination2017-confirmation.jsp?addCss=.commander-iframe|display|none&wait=4000,015b,d015b,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/nomination2017.jsp?addCss=.commander-iframe|display|none&wait=4000&click=input[value=%27N%27]&call=myFunction(),015c,d015c,DNT,DNT
+http://www.warneradvocacyaward.com,/patient/error?addCss=.commander-iframe|display|none&wait=4000,016,d016,DNT,DNT

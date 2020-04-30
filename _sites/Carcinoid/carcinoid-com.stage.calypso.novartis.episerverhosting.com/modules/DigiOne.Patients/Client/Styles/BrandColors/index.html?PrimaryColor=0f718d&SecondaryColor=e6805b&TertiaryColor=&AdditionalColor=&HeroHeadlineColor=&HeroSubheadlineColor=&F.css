@@ -1,0 +1,819 @@
+
+
+
+    a,
+    a:visited {
+        color: rgba(230,128,91,1);
+        }
+        a:hover,
+        a:focus {
+        color: rgba(235,153,123,0.2);
+        }
+
+        .home-page .headline h1 {
+        color: rgba(15,113,141,1);
+        }
+
+    #image-video-hero .image-video-hero .hero-block h1 {
+        color: rgba(15,113,141,1) !important;
+    }
+
+    #image-video-hero .image-video-hero .hero-block .callout .cta-button {
+        border-color: rgba(15,113,141,1);
+        color: rgba(15,113,141,1);
+    }
+    
+    #image-video-hero .image-video-hero .video-block .btn-close {
+        background-color: rgba(15,113,141,1);
+    }
+
+    .two-column-animation .teaser-block .description h2 {
+        color: rgba(15,113,141,1);
+        }
+
+        .navigation .navbar-nav.nav > li > a,
+        .navigation .navbar-nav.nav > li.open > a {
+        color: rgba(230,128,91,1);
+        }
+        .navigation .navbar-nav.nav > li.active > a {
+        color: rgba(230,128,91,1);
+        border-bottom-color: rgba(230,128,91,1);
+        }
+
+        @media only screen and (max-width: 991px) {
+        .gc-nav .scalable .navbar-nav > li > ul.dropdown-menu {
+        background-color: #B86648 !important;
+        }
+
+        .scalable .navigation .navbar-toggle:focus,
+        .scalable .navigation .navbar-toggle:hover {
+        background-color:  rgba(230,128,91,1);
+        }
+
+        .scalable .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li > a {
+        background-color: #B86648;
+        }
+
+        .scalable .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li.active > a {
+        background-color: #fff;
+        }
+        }
+
+        @media only screen and (min-width: 992px) {
+        .scalable .navigation .navbar-nav.nav > li:before  {
+        background-color: rgba(235,153,123,0.2);
+        }
+        .scalable .navigation .navbar-nav.nav > li.active:after  {
+        background-color: rgba(15,113,141,1);
+        }
+        .scalable .navigation .navbar-nav.nav > li.open {
+        border-bottom-color: rgba(235,153,123,0.2);
+        }
+        .scalable .navigation .navbar-nav.nav > li.open:before {
+        background-color: rgba(235,153,123,0.2);
+        }
+        .scalable .navigation .navbar-nav.nav > li.open > a {
+        color: #000;
+        }
+        }
+
+        .gc-nav .icon-search .inner svg path {
+        fill: rgba(230,128,91,1);
+        }
+
+        .gc-nav .icon-search.active .inner:after {
+        color: rgba(230,128,91,1);
+        }
+
+        .gc-nav .block-search button {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .gc-main-content .block-search button {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .gc-footer h3 {
+        color: rgba(250,199,103,1);
+        }
+
+        .gc-footer .global-footer-links > a:first-child {
+        border-color: rgba(230,128,91,1);
+        }
+
+        .gc-footer .global-footer-links a {
+        border-color: rgba(230,128,91,1);
+        }
+
+        .gc-footer .global-footer-links a:after {
+        color: rgba(230,128,91,1);
+        }
+
+        .gc-footer .global-footer-links a:after {
+        color: rgba(230,128,91,1);
+        border-bottom-color: rgba(230,128,91,1);
+        }
+
+        .block-headline h3 {
+        color: rgba(15,113,141,1);
+        }
+
+        .block-headline a {
+        color: rgba(230,128,91,1);
+        }
+        .block-headline a:hover,
+        .block-headline a:focus {
+        color: rgba(235,153,123,0.2);
+        }
+
+        .panel-title > a, .panel-title > a:focus {
+        color: rgba(230,128,91,1);
+        }
+        .panel-title > a:hover{
+        color: rgba(235,153,123,0.2);
+        }
+        .panel-title > a:after {
+        color: rgba(230,128,91,1);
+        }
+
+        .list-with-pattern h5 {
+        color: rgba(15,113,141,1);
+        }
+
+        .list-with-pattern .preheadline {
+        color: ;
+        }
+
+        .interior-hero .breadcrumbs a,
+        .gc-subnav .breadcrumbs a {
+        color: rgba(15,113,141,1);
+        }
+        .interior-hero .breadcrumbs a:hover,
+        .interior-hero .breadcrumbs a:focus,
+        .gc-subnav .breadcrumbs a:hover,
+        .gc-subnav .breadcrumbs a:focus {
+        color: rgba(63,141,163,1);
+        }
+
+        .interior-hero h1 {
+        color: rgba(15,113,141,1);
+        }
+
+        .bg-grey-block-title p {
+        color: rgba(15,113,141,1);
+        }
+
+        .bg-grey-block h4 {
+        color: ;
+        }
+
+        .program-description-steps .title p {
+        color: rgba(15,113,141,1);
+        }
+        .program-description-steps .number p {
+        color: ;
+        }
+
+        .day-to-day h5 {
+        color: rgba(15,113,141,1);
+        }
+        .day-to-day a {
+        color: rgba(230,128,91,1);
+        }
+        .product-in-page-toggle-tabs > li.active {
+        border-bottom-color: rgba(230,128,91,1);
+        }
+        .product-in-page-toggle-tabs > li a,
+        .product-in-page-toggle-tabs > li.active a,
+        .product-in-page-toggle-tabs > li.active a:focus,
+        .product-in-page-toggle-tabs > li.active a:hover {
+        color: rgba(230,128,91,1);
+        }
+
+        .onco-product > .headline > h5 {
+        color: rgba(15,113,141,1);
+        }
+
+        .onco-product > .content {
+        color: rgba(15,113,141,1);
+        }
+
+        .sitemap-title {
+        color: rgba(15,113,141,1);
+        }
+
+        .sitemap-body > ul > li a {
+        color: rgba(230,128,91,1);
+        }
+
+        .sitemap-body > ul > li a:hover {
+        color: rgba(235,153,123,0.2);
+        }
+
+        .sitemap-body > ul > ul > li a {
+        color: rgba(230,128,91,1);
+        }
+        .sitemap-body > ul > ul > li a:hover,
+        .sitemap-body > ul > ul > li a:focus {
+        color: rgba(235,153,123,0.2);
+        }
+
+        body .error-404-block h1 {
+        color: rgba(15,113,141,1);
+        }
+
+        .product-hero-block .text h2 {
+        color: ;
+        }
+
+        .product-hero-block .text .subheadline,
+        .product-hero-block .product-hero-content .patients-block-rich-text .inner p {
+        color: ;
+        }
+
+        .block-foundation-contact-list .block-foundation-contact .foundation-headline {
+        color: rgba(15,113,141,1);
+        }
+
+        .block-foundation-contact-list .block-foundation-contact .foundation-details .url a {
+        color: rgba(230,128,91,1);
+        }
+
+        .block-foundation-contact-list .block-foundation-contact .foundation-details .url:before {
+        color: rgba(230,128,91,1);
+        }
+
+        .block-foundation-contact-list .block-foundation-contact .foundation-details .phone {
+        color: ;
+        }
+
+        .other-support .inner h5 {
+        color: rgba(15,113,141,1);
+        }
+
+        
+        .hero-video-block .hero-block h1 {
+        color: rgba(15,113,141,1) !important;
+        }
+
+        .hero-video-block .hero-block .callout .cta-button {
+        border-color: rgba(15,113,141,1);
+        color: rgba(15,113,141,1);
+        }
+
+        .modal.video-modal .modal-content .modal-header button.close {
+        background-color: rgba(15,113,141,.7);
+        }
+        .modal.video-modal .modal-content .modal-header button.close:hover {
+        background-color: rgba(15,113,141,1);
+        }
+
+        .hero-video-block .hero-block .video-container .btn-close,
+        .modal.hero-video-modal .modal-content .modal-header button.btn-close {
+        background-color: rgba(15,113,141,.7);
+        }
+        .hero-video-block .hero-block .video-container .btn-close:hover,
+        .modal.hero-video-modal .modal-content .modal-header button.btn-close:hover {
+        background-color: rgba(15,113,141,1);
+        }
+
+        
+
+        .image-gallery-block .controls .btn-see-more {
+        border-color: rgba(15,113,141,1);
+        color: rgba(15,113,141,1);
+        }
+
+        
+        .product-in-page-toggle .product-in-page-toggle-tabs .product-in-page-toggle-tab-item:hover {
+        background-color: rgba(230,128,91,0.15);
+        }
+        .product-in-page-toggle .product-in-page-toggle-tabs .product-in-page-toggle-tab-item.active a,
+        .product-in-page-toggle .product-in-page-toggle-tabs .product-in-page-toggle-tab-item.active {
+        background-color: rgba(15,113,141,1);
+        }
+
+        .product-in-page-toggle .product-in-page-toggle-tabs .product-in-page-toggle-tab-item {
+        border-color: rgba(230,128,91,1);
+        color: rgba(230,128,91,1);
+        }
+        .product-in-page-toggle .product-in-page-toggle-tabs .product-in-page-toggle-tab-item figure {
+        fill: rgba(230,128,91,1);
+        }
+
+        
+        .product-printable-inventory .product-printable-inventory-step-nav .product-printable-inventory-step.active {
+        border-bottom-color: rgba(15,113,141,1);
+        }
+        .product-printable-inventory .product-printable-inventory-step-content
+        .product-printable-inventory-step-item .product-printable-inventory-checkboxlist-checkbox-option {
+        border-color: rgba(230,128,91,1);
+        color: rgba(230,128,91,1);
+        }
+
+        .product-printable-inventory .product-printable-inventory-step-content .product-printable-inventory-step-item
+        .product-printable-inventory-checkboxlist-checkbox-option:hover {
+        background-color: rgba(230,128,91,0.15);
+        }
+
+        .product-printable-inventory .product-printable-inventory-step-content
+        .product-printable-inventory-step-item .product-printable-inventory-checkboxlist-checkbox-option
+        .product-printable-inventory-checkbox:checked ~ label {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .product-printable-inventory .product-printable-inventory-submit-button {
+        background-color: rgba(15,113,141,1);
+        }
+
+        .product-printable-inventory .product-printable-inventory-submit-button.primary-brand-color-border {
+        border-color: rgba(15,113,141,1);
+        color: rgba(15,113,141,1);
+        }
+
+        
+        .product-expandable-callout-block .panel {
+        border-color: rgba(230,128,91,1);
+        }
+
+        .product-expandable-callout-block .panel .product-expandable-callout-heading .panel-title {
+        color: rgba(230,128,91,1);
+        }
+
+        .product-expandable-callout-block .panel .product-expandable-callout-heading .callout-subtitle {
+        color: rgba(230,128,91,1);
+        }
+
+        .product-expandable-callout-block .panel .product-expandable-callout-heading:hover {
+        background-color: rgba(230,128,91,0.15);
+        }
+
+        .product-expandable-callout-block .panel .product-expandable-callout-heading.colapsed-header {
+        background-color: rgba(230,128,91,1);
+        }
+
+        
+        .products-quiz-component .products-quiz-question-component .products-quiz-answer-container
+        .products-quiz-answer-component .inner {
+        border-color: rgba(230,128,91,1);
+        }
+
+        .products-quiz-component .products-quiz-question-component .products-quiz-answer-container
+        .products-quiz-answer-component .inner:hover {
+        background-color: rgba(230,128,91,0.15);
+        }
+
+        .products-quiz-component .products-quiz-question-component .products-quiz-form-buttons .products-quiz-form-button {
+        background-color: rgba(230,128,91,1);
+        }
+
+
+        
+        .google-map-locator .homepage .centerfinder-pagination .centerfinder-pages > li {
+        color: rgba(230,128,91,1);
+        }
+
+        .google-map-locator .centerfinder-btn-search {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .google-map-locator .centerfinder-filter .radio-container .radio:checked + .label-radio:before {
+        background-color: rgba(230,128,91,1); !important;
+        }
+
+        .google-map-locator .directions .primary-brand-color-bg,
+        .google-map-locator .website .primary-brand-color-bg{
+        background-color: rgba(230,128,91,1);
+        }
+        .google-map-locator .markerWIDirections .primary-brand-color-bg,
+        .google-map-locator .markerWIWebsite .primary-brand-color-bg {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .google-map-locator .centerfinder-marker-pagination .centerfinder-marker-item li.phone a {
+        color: rgba(230,128,91,1);
+        }
+        
+        body .patients-block-rich-text .inner .h1,
+        body .patients-block-rich-text .inner .h2,
+        body .patients-block-rich-text .inner .h3,
+        body .patients-block-rich-text .inner .h5,
+        body .patients-block-rich-text .inner .h7,
+        body .patients-block-rich-text .inner .h8,
+        body .patients-block-rich-text .inner .h10,
+        body .patients-block-rich-text .inner .l13,
+        body .patients-block-rich-text .inner .l14,
+        body .block-headline .h1,
+        body .block-headline .h2,
+        body .block-headline .h3,
+        body .block-headline .h5,
+        body .block-headline .h7,
+        body .block-headline .h8,
+        body .block-headline .h10,
+        body .block-headline .l13,
+        body .block-headline .l14,
+        body .day-to-day .h1,
+        body .day-to-day .h2,
+        body .day-to-day .h3,
+        body .day-to-day .h5,
+        body .day-to-day .h7,
+        body .day-to-day .h8,
+        body .day-to-day .h10,
+        body .day-to-day .l13,
+        body .day-to-day .l14,
+        body .list-with-pattern .h1,
+        body .list-with-pattern .h2,
+        body .list-with-pattern .h3,
+        body .list-with-pattern .h5,
+        body .list-with-pattern .h7,
+        body .list-with-pattern .h8,
+        body .list-with-pattern .h10,
+        body .list-with-pattern .l13,
+        body .list-with-pattern .l14,
+        body .onco-product .h1,
+        body .onco-product .h2,
+        body .onco-product .h3,
+        body .onco-product .h5,
+        body .onco-product .h7,
+        body .onco-product .h8,
+        body .onco-product .h10,
+        body .onco-product .l13,
+        body .onco-product .l14 {
+        color: rgba(15,113,141,1);
+        }
+        body .patients-block-rich-text .inner .h6,
+        body .block-headline .h6,
+        body .day-to-day .h6,
+        body .list-with-pattern .h6,
+        body .onco-product .h6 {
+        color: ;
+        }
+        body .patients-block-rich-text .inner .l2,
+        body .patients-block-rich-text .inner .l3,
+        body .patients-block-rich-text .inner .l7,
+        body .patients-block-rich-text .inner .l8,
+        body .patients-block-rich-text .inner .l9,
+        body .patients-block-rich-text .inner .l10,
+        body .block-headline .l2,
+        body .block-headline .l3,
+        body .block-headline .l7,
+        body .block-headline .l8,
+        body .block-headline .l9,
+        body .block-headline .l10,
+        body .day-to-day .l2,
+        body .day-to-day .l3,
+        body .day-to-day .l7,
+        body .day-to-day .l8,
+        body .day-to-day .l9,
+        body .day-to-day .l10,
+        body .list-with-pattern .l2,
+        body .list-with-pattern .l3,
+        body .list-with-pattern .l7,
+        body .list-with-pattern .l8,
+        body .list-with-pattern .l9,
+        body .list-with-pattern .l10,
+        body .onco-product .l2,
+        body .onco-product .l3,
+        body .onco-product .l7,
+        body .onco-product .l8,
+        body .onco-product .l9,
+        body .onco-product .l10 {
+        color: rgba(230,128,91,1);
+        }
+        body .patients-block-rich-text .inner .h9,
+        body .patients-block-rich-text .inner .p2,
+        body .block-headline .h9,
+        body .block-headline .p2,
+        body .day-to-day .h9,
+        body .day-to-day .p2,
+        body .list-with-pattern .h9,
+        body .list-with-pattern .p2,
+        body .onco-product .h9,
+        body .onco-product .p2 {
+        color: ;
+        }
+
+        
+        .two-column-animation .link-label,
+        div.buttons {
+        background-color: rgba(230,128,91,1);
+        }
+        .two-column-animation .link-label:hover,
+        div.buttons:hover {
+        background-color: rgba(235,153,123,0.2);
+        }
+
+        
+        .gc-footer {
+        background-color: rgba(15,113,141,.9);
+        }
+
+        .gc-subnav > .container-fluid {
+        background-color: ;
+        }
+
+        .block-foundation-contact-list .dropdown-toggle.btn-default,
+        .block-foundation-contact-list .dropdown-toggle.btn-default:hover,
+        .block-foundation-contact-list .dropdown.open .dropdown-menu {
+        background-color: rgba(230,128,91,1) !important;
+        }
+        .block-foundation-contact-list .dropdown.open .dropdown-menu li a:hover,
+        .block-foundation-contact-list .dropdown.open .dropdown-menu li a:focus {
+        background-color: transparent;
+        }
+
+        .trivia:before {
+        background-color: ;
+        }
+
+        
+        .bg-grey-block-title {
+        border-color: rgba(15,113,141,1);
+        }
+
+        .panel-group:first-child,
+        .panel-default {
+        border-color: rgba(230,128,91,1);
+        }
+
+        .cn-drpdown-content > li,
+        .cn-drpdown-content > li > a,
+        .cn-drpdown-content > li:last-child > a {
+        border-color: rgba(99,162,180,1);
+        }
+
+        
+        .gc-chapternav > .container {
+        background-color: rgba(15,113,141,.9);
+        }
+        .cn-drpdown-content > li.active a,
+        .cn-drpdown-content > li.active a:hover,
+        .cn-drpdown-content > li.active a:focus {
+        background-color: rgba(230,128,91,1);
+        }
+        .cn-drpdown-content > li a:hover {
+        background-color: rgba(230,128,91,.3);
+        }
+        .cn-drpdown-content > li > a:focus,
+        .cn-drpdown-content > li > a:hover {
+        background-color: rgba(230,128,91,.3);
+        }
+        .cn-drpdown-content > li > a:active {
+        background-color: rgba(230,128,91,1);
+        }
+
+        
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu {
+        //background-color: rgba(230,128,91,1);
+        }
+
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a {
+        border-top-color: rgba(238,172,148,0.35);
+        }
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li:last-child > a {
+        border-bottom-color: rgba(238,172,148,0.35);
+        }
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a:hover {
+        background-color: rgba(230,128,91,.8);
+        }
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li.active > a {
+        color: rgba(230,128,91,1);
+        }
+        .navigation .navbar-nav.nav > li > ul.dropdown-menu > li.active > a:hover {
+        background-color: #fff;
+        }
+
+        
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu {
+        //background-color: rgba(230,128,91,1);
+        }
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a {
+        background-color: rgba(230,128,91,1);
+        }
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a {
+        border-top-color: rgba(238,172,148,0.35);
+        }
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a:hover {
+        background: rgba(235,153,123,0.2);
+        }
+        .patients-navigation .navbar-nav.nav li.currentActive > a:before {
+        background-color: rgba(15,113,141,1);
+        }
+        .patients-navigation.block-menu .navbar-nav.nav > li.active > a,
+        .patients-navigation.block-menu .navbar-nav.nav > li.open > a{
+        background: rgba(235,153,123,0.2);
+        }
+        .patients-navigation .navbar-nav.nav > li > a:hover {
+        background-color: rgba(235,153,123,0.2);
+        }
+        .patients-navigation.block-menu .navbar-nav.nav > li.activated:after{
+        background-color: rgba(15,113,141,1);
+        }
+        .patients-navigation.block-menu .navbar-nav.nav > li:hover:before{
+        height:0;
+        background-color: transparent;
+        }
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li > ul > li > a:hover,
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li ul > li > ul > li > a:hover {
+        background: rgba(235,153,123,0.2);
+        }
+        @media only screen and (max-width: 991px) {
+        .patients-navigation .navbar-nav.nav li.currentActive > a:before {
+        background-color: rgba(15,113,141,1) !important;
+        }
+        .patients-navigation .navbar-nav.nav > li > a:hover,
+        .patients-navigation .navbar-nav.nav > li > ul.dropdown-menu > li > a:hover  {
+        background-color: rgba(230,128,91,1);
+        }
+        .patients-navigation .navbar-nav.nav > li > a,
+        .patients-navigation #patients-mobile-navigation,
+        .patients-navigation.block-menu .navbar-nav.nav > li.open > a,
+        .patients-navigation .navbar-toggle,
+        .patients-navigation .navbar-toggle:focus,
+        .patients-navigation .navbar-toggle:hover{
+        background-color: rgba(230,128,91,1);
+        }
+        }
+
+        
+
+        
+
+        .survey-block {
+        border: 4px solid rgba(15,113,141,1);
+        }
+        .survey-block .item .input-radio input:checked ~ .checkmark:after {
+        background: rgba(15,113,141,1);
+        }
+        .survey-block .controls .btn {
+        background-color: rgba(15,113,141,1);
+        }
+        .survey-block .item .slider-container .form-control-slider .input-slider::-webkit-slider-thumb {
+        background-color: rgba(15,113,141,1);
+        }
+        .survey-block .item .slider-container .form-control-slider .input-slider::-webkit-slider-runnable-track {
+        background: linear-gradient(to right, rgba(15,113,141,1) var(--cur), #979797 var(--cur) 100%);
+        }
+        .survey-block .item .slider-container .form-control-slider .input-slider::-moz-range-thumb {
+        background-color: rgba(15,113,141,1);
+        }
+        .survey-block .item .slider-container .form-control-slider .input-slider::-ms-thumb {
+        background: rgba(15,113,141,1);
+        }
+        .survey-block .item .slider-container .form-control-slider .input-slider::-ms-fill-lower {
+        background: rgba(15,113,141,1);
+        }
+
+        .survey-block .item .input-checkbox input:checked ~ .checkmark:after {
+        background:  rgba(15,113,141,1);
+        }
+        .survey-complete .btn {
+        background-color:  rgba(15,113,141,1);
+        }
+
+                
+                    .ffb-component-form-container-step-nav .active {
+                    -webkit-box-shadow: 0px -4px 0px rgba(230,128,91,1) inset !important;
+                    -moz-box-shadow: 0px -4px 0px rgba(230,128,91,1) inset !important;
+                    box-shadow: 0px -4px 0px rgba(230,128,91,1) inset !important;
+                    }
+                
+                
+                    .ffb-component-form-field-radiobutton:checked + label:before{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-field-checkbox:checked ~ label:before{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    #ffb-component-form #ffb-form-submit-continue{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    #ffb-component-form #ffb-form-submit{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    #ffb-form-submit-back {
+                    border-color: rgba(15,113,141,1) !important;
+                    color: rgba(15,113,141,1) !important;
+                    }
+
+                    #ffb-form-submit-back:hover {
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-rich-content-block.success-page h2{
+                    color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-field-container-checkbox:hover label:before{
+                    background-color:rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-summary-step .ffb-submit-button-edit-container{
+                    color: rgba(15,113,141,1) !important;
+                    }
+                    .ffb-component-form-summary-step .ffb-submit-button-edit-container svg{
+                    fill: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-field-container-radiobutton-list input[type="radio"]:hover + label:before {
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-field-label-checkboxlist-checkbox-option input[type="checkbox"]:checked ~ label:before{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component-form-field-label-checkboxlist-checkbox-option:hover .ffb-component-form-field-label-checkboxlist:before{
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+                    .ffb-component-rich-content-block .inner > p a{
+                    color: rgba(15,113,141,1) !important;
+                    }
+
+                    .ffb-component .btn-user-story {
+                    background-color: rgba(15,113,141,1) !important;
+                    }
+                    .ffb-component .btn-user-story:hover {
+                    background-color: rgba(15,113,141,.8) !important;
+                    }
+
+                
+
+
+        
+        .cn-drpdown-header {
+        background-color: rgba(15,113,141,1);
+        }
+
+        .cn-drpdown-content.mobile-brand-color {
+        background-color: rgba(15,113,141,1);
+        }
+
+        @media only screen and (max-width: 991px) {
+        .gc-nav {
+        background-color: rgba(15,113,141,1);
+        }
+
+        .navigation .navbar-toggle,
+        .navigation .navbar-default .navbar-nav {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .navigation .navbar-toggle:focus,
+        .navigation .navbar-toggle:hover {
+        background-color: rgba(235,153,123,0.2);
+        }
+
+        .navigation .navbar-default .navbar-nav > li.dropdown {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .navigation .navbar-collapse.collapse.in {
+        background-color: rgba(230,128,91,1);
+        }
+
+        .navigation .navbar-nav.nav > li > a,
+        .navigation .navbar-nav.nav > li.active > a {
+        color: #fff;
+        }
+        .navigation .navbar-default .navbar-nav > li > a:focus,
+        .navigation .navbar-default .navbar-nav > li > a:hover,
+        .navigation .navbar-default .navbar-nav > li.open > a:focus,
+        .navigation .navbar-default .navbar-nav > li.open > a:hover {
+        background-color: rgba(230,128,91,1);
+        }
+
+        
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li,
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li.open,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li.open {
+        border-color: rgba(238,172,148,0.35);
+        }
+
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li:first-child,
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li.open:first-child,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li:first-child,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li.open:first-child {
+        border-color: rgba(238,172,148,0.35);
+        }
+
+        
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li.active > a,
+        .navigation .navbar-default .navbar-nav > li > ul.dropdown-menu > li.open.active > a,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li.active > a,
+        .navigation .navbar-default .navbar-nav > li.open > ul.dropdown-menu > li.open.active > a {
+        color: rgba(230,128,91,1);
+        }
+
+
+        }
+

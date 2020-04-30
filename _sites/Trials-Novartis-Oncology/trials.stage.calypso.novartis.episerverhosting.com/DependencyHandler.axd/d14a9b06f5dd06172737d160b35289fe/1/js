@@ -1,0 +1,2 @@
+﻿'use strict';(function(globals){if(window.jQuery){$(document).ready(function(){if(typeof globals.bmgTeaserReady=='undefined'){bmgTeaser.init();globals.bmgTeaserReady=true;}});}else{throw new Error('Block Teaser\'s JavaScript requires jQuery');}}(this));var bmgTeaser=(function(){return{init:function(){$(".teaser-block .has-modal").click(function(e){e.preventDefault();$('#'+$(this).parents('.teaser-block').data('modal-id')).modal('show');})}}})();
+;;;

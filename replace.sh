@@ -1,0 +1,1 @@
+find /Users/druiz/www/novartis-scraper-cli/_sites/Carcinoid -name '*.html' -exec sed -i '' -e 's|<input*.*__RequestVerificationToken*.*>||g' -e 's|<script*.*adobetrackingdb*.*/script>||g' -e 's|<script*.*assets.adobe*.*/script>||g' -e 's|<script*.*window.NREUM*.*/script>||g' -e 's|<script*.*_satellite*.*/script>||g' -e 's|   ||g' {} \;

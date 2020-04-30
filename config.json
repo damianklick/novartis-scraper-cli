@@ -1,0 +1,562 @@
+{
+	"products": [
+		{
+			"title": "Afinitor",
+			"subtitle": "Advanced Pancreatic NET",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "afinitor.edit.stage.calypso.novartis.episerverhosting.com/advanced-pancreatic-neuroendocrine-tumors/",
+			"date": "Thu Apr 30 2020 09:29:13 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Advanced Pancreatic NET",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.afinitor.com/advanced-pancreatic-neuroendocrine-tumors/",
+			"date": "03/08/2019 at 11:11:08am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Advanced RCC",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "afinitor.edit.stage.calypso.novartis.episerverhosting.com/Advanced-Renal-Cell-Carcinoma/",
+			"date": "11/02/2017 at 10:48:40am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Advanced RCC",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.afinitor.com/advanced-renal-cell-carcinoma/",
+			"date": "11/16/2017 at 12:11:07pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Progressive Lung NET",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "afinitor.edit.stage.calypso.novartis.episerverhosting.com/lung-neuroendocrine-tumors/",
+			"date": "02/25/2019 at 02:09:50pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Progressive Lung NET",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.afinitor.com/lung-neuroendocrine-tumors/",
+			"date": "Thu Apr 30 2020 13:55:12 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Progressive Nonfunctional GI",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "afinitor.edit.stage.calypso.novartis.episerverhosting.com/progressive-nonfunctional-gi-neuroendocrine-tumor/",
+			"date": "02/22/2019 at 04:38:42pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Afinitor",
+			"subtitle": "Progressive Nonfunctional GI",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.afinitor.com/progressive-nonfunctional-gi-neuroendocrine-tumor/",
+			"date": "03/08/2019 at 11:19:05am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products90/afinitor/affinitor-logo.jpg"
+		},
+		{
+			"title": "Carcinoid",
+			"subtitle": "Carcinoid Syndrome",
+			"type": "Unbranded",
+			"status": "Staging",
+			"url": "carcinoid-com.stage.calypso.novartis.episerverhosting.com/",
+			"date": "Thu Apr 30 2020 12:47:48 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.carcinoid.com/globalassets/support21.com/carcinoid.com/shared/carcinoid-logo.png"
+		},
+		{
+			"title": "Carcinoid",
+			"subtitle": "Carcinoid Syndrome",
+			"type": "Unbranded",
+			"status": "Live",
+			"url": "www.carcinoid.com/",
+			"date": "Thu Apr 30 2020 11:23:17 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.carcinoid.com/globalassets/support21.com/carcinoid.com/shared/carcinoid-logo.png"
+		},
+		{
+			"title": "Farydak",
+			"subtitle": "Farydak Capsules",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "farydak.edit.stage.calypso.novartis.episerverhosting.com/",
+			"date": "02/28/2019 at 04:10:54pm",
+			"logo": "https://farydak.com/img/logo-farydak@2x.png"
+		},
+		{
+			"title": "Farydak",
+			"subtitle": "Farydak Capsules",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.farydak.com/",
+			"date": "03/09/2018 at 09:56:06am",
+			"logo": "https://farydak.com/img/logo-farydak@2x.png"
+		},
+		{
+			"title": "Farydak",
+			"subtitle": "REMs",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "farydak.edit.stage.calypso.novartis.episerverhosting.com/products/Farydak-REMS/",
+			"date": "07/21/2017 at 05:24:13pm",
+			"logo": "https://farydak.com/img/logo-farydak@2x.png"
+		},
+		{
+			"title": "Farydak",
+			"subtitle": "REMs",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.farydak-rems.com/",
+			"date": "11/20/2017 at 03:44:34pm",
+			"logo": "https://farydak.com/img/logo-farydak@2x.png"
+		},
+		{
+			"title": "Gleevec",
+			"subtitle": "Gleevec tablets",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "gleevec.stage.calypso.novartis.episerverhosting.com/",
+			"date": "05/01/2019 at 04:47:47pm",
+			"logo": "https://www.us.gleevec.com/globalassets/products38/gleevec/images/gleevec_us_100-400mg_4c_70px.png"
+		},
+		{
+			"title": "Gleevec",
+			"subtitle": "Gleevec tablets",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.gleevec.com/",
+			"date": "05/16/2019 at 11:50:03am",
+			"logo": "https://www.us.gleevec.com/globalassets/products38/gleevec/images/gleevec_us_100-400mg_4c_70px.png"
+		},
+		{
+			"title": "Jadenu",
+			"subtitle": "Chronic iron overload",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "jadenu.edit.stage.calypso.novartis.episerverhosting.com/",
+			"date": "Wed Apr 29 2020 22:37:54 GMT-0400 (Eastern Daylight Time)",
+			"logo": "http://www.jadenu.com/globalassets/products232.com/jadenu/images/logo-jadenu2.jpg"
+		},
+		{
+			"title": "Jadenu",
+			"subtitle": "Chronic iron overload",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.jadenu.com/",
+			"date": "06/20/2017 at 01:21:20pm",
+			"logo": "http://www.jadenu.com/globalassets/products232.com/jadenu/images/logo-jadenu2.jpg"
+		},
+		{
+			"title": "KnowNow",
+			"subtitle": "One Pager",
+			"type": "Unbranded",
+			"status": "Staging",
+			"url": "knownow.stage.calypso.novartis.episerverhosting.com/en/melanoma-testing/",
+			"date": "09/11/2018 at 10:14:21am",
+			"logo": "https://www.knownowbraf.com/globalassets/eg-plus-assets12/knownow/logo-know.png"
+		},
+		{
+			"title": "LungNSCLC",
+			"subtitle": "Lung Patient NSCLC support.com",
+			"type": "Unbranded",
+			"status": "Staging",
+			"url": "lung-nsclc.stage.calypso.novartis.episerverhosting.com/",
+			"date": "09/26/2019 at 11:10:16am",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "",
+			"type": "Unbranded",
+			"status": "Staging",
+			"url": "sando-dtc.stage.calypso.novartis.episerverhosting.com/",
+			"date": "03/07/2018 at 03:23:14pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Acromegaly",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin.stage.calypso.novartis.episerverhosting.com/acromegaly/",
+			"date": "05/14/2019 at 04:44:46pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Acromegaly",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.sandostatin.com/acromegaly/",
+			"date": "03/05/2020 at 02:28:54pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Carcinoid Syndrome",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin.stage.calypso.novartis.episerverhosting.com/carcinoid-syndrome/",
+			"date": "04/28/2020 at 06:03:23pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Carcinoid Syndrome",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.sandostatin.com/carcinoid-syndrome/",
+			"date": "03/05/2020 at 03:25:24pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Error Page",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin.stage.calypso.novartis.episerverhosting.com/error-page/",
+			"date": "03/08/2019 at 10:53:57am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin.stage.calypso.novartis.episerverhosting.com/",
+			"date": "06/27/2019 at 02:57:17pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.sandostatin.com/",
+			"date": "03/05/2020 at 04:32:54pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "COVID19 orphan",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin-wip.stage.calypso.novartis.episerverhosting.com/mobile-administration-support/",
+			"date": "Wed Apr 29 2020 22:24:37 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Sandostatin",
+			"subtitle": "COVID19 carcinoid",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "sandostatin-wip.stage.calypso.novartis.episerverhosting.com/carcinoid-syndrome/",
+			"date": "04/28/2020 at 04:19:36pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2170/sandostatin-lar/sandostatin-header-logo-2019-01-24.png"
+		},
+		{
+			"title": "Signifor",
+			"subtitle": "Cushings Disease",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "signifor.stage.calypso.novartis.episerverhosting.com/cushings-disease/",
+			"date": "Wed Apr 29 2020 22:33:47 GMT-0400 (Eastern Daylight Time)",
+			"logo": "http://signifor.stage.calypso.novartis.episerverhosting.com/globalassets/products/signifor/signifor-cushings-disease.jpg"
+		},
+		{
+			"title": "Signifor",
+			"subtitle": "Cushings Disease",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.signifor.com/cushings-disease/",
+			"date": "06/11/2019 at 11:54:06am",
+			"logo": "http://signifor.stage.calypso.novartis.episerverhosting.com/globalassets/products/signifor/signifor-cushings-disease.jpg"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tykerb.stage.calypso.novartis.episerverhosting.com/",
+			"date": "04/02/2020 at 01:25:45pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2136/tykerb/tykerb-logo.png"
+		},
+		{
+			"title": "Tafinlar-Mekinist",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tafinlarmekinist-day10.stage.calypso.novartis.episerverhosting.com/",
+			"date": "10/12/2018 at 05:06:12pm",
+			"logo": "https://www.us.tafinlarmekinist.com/globalassets/products9.com-main/tafinlarmekinist/melanoma/images/taf-mek-logo.png"
+		},
+		{
+			"title": "Tafinlar-Mekinist",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tafinlarmekinist.com/",
+			"date": "06/27/2017 at 11:37:05am",
+			"logo": "https://www.us.tafinlarmekinist.com/globalassets/products9.com-main/tafinlarmekinist/melanoma/images/taf-mek-logo.png"
+		},
+		{
+			"title": "Tafinlar-Mekinist",
+			"subtitle": "Advanced Melanoma",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tafinlarmekinist-day10.stage.calypso.novartis.episerverhosting.com/advanced-melanoma/",
+			"date": "01/27/2020 at 03:04:39pm",
+			"logo": "https://www.us.tafinlarmekinist.com/globalassets/products9.com-main/tafinlarmekinist/melanoma/images/taf-mek-logo.png"
+		},
+		{
+			"title": "Tafinlar-Mekinist",
+			"subtitle": "Advanced Melanoma",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tafinlarmekinist.com/advanced-melanoma/",
+			"date": "04/01/2019 at 12:29:36pm",
+			"logo": "https://www.us.tafinlarmekinist.com/globalassets/products9.com-main/tafinlarmekinist/melanoma/images/taf-mek-logo.png"
+		},
+		{
+			"title": "Tasigna",
+			"subtitle": "",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tasigna.edit.stage.calypso.novartis.episerverhosting.com/",
+			"date": "02/09/2018 at 03:44:29pm",
+			"logo": "http://us.tasigna.com/globalassets/products60.com/tasigna/tasgina-logo-180x65.png"
+		},
+		{
+			"title": "Tasigna",
+			"subtitle": "",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tasigna.com/",
+			"date": "01/15/2018 at 03:22:08pm",
+			"logo": "http://us.tasigna.com/globalassets/products60.com/tasigna/tasgina-logo-180x65.png"
+		},
+		{
+			"title": "Tasigna",
+			"subtitle": "New Data (TFR Orphan)",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tasigna.edit.stage.calypso.novartis.episerverhosting.com/newdata/",
+			"date": "01/02/2018 at 01:17:43pm",
+			"logo": "http://us.tasigna.com/globalassets/products60.com/tasigna/tasgina-logo-180x65.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "HER2+ Metastatic Breast Cancer",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tykerb.stage.calypso.novartis.episerverhosting.com/her2-positive-metastatic-breast-cancer/",
+			"date": "02/11/2019 at 05:11:00pm",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2136/tykerb/tykerb-logo.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "HER2+ Metastatic Breast Cancer",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tykerb.com/hr-positive-metastatic-breast-cancer/",
+			"date": "02/20/2019 at 04:08:05pm",
+			"logo": "https://www.us.tykerb.com/globalassets/products171.com/tykerb/images/tykerb-logo.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "HR+, HER2+ Metastatic Breast Cancer",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tykerb.stage.calypso.novartis.episerverhosting.com/hr-positive-metastatic-breast-cancer/",
+			"date": "02/11/2019 at 11:53:05am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2136/tykerb/tykerb-logo.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "HR+, HER2+ Metastatic Breast Cancer",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tykerb.com/her2-positive-metastatic-breast-cancer/",
+			"date": "02/20/2019 at 04:18:06pm",
+			"logo": "https://www.us.tykerb.com/globalassets/products171.com/tykerb/images/tykerb-logo.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "tykerb.stage.calypso.novartis.episerverhosting.com/",
+			"date": "02/18/2020 at 11:43:18am",
+			"logo": "https://www.hcp.novartis.com/globalassets/products2136/tykerb/tykerb-logo.png"
+		},
+		{
+			"title": "Tykerb",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.tykerb.com/",
+			"date": "02/20/2019 at 04:04:31pm",
+			"logo": "https://www.us.tykerb.com/globalassets/products171.com/tykerb/images/tykerb-logo.png"
+		},
+		{
+			"title": "Votrient",
+			"subtitle": "Advanced Soft Tissue Sarcoma",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "votrient.edit.stage.calypso.novartis.episerverhosting.com/advanced-soft-tissue-sarcoma/",
+			"date": "04/08/2019 at 10:12:53am",
+			"logo": "https://www.us.votrient.com/globalassets/products44.com/votrient/advanced-renal-cell-carcinoma-rcc/images/logo-vot_dose_4c.png"
+		},
+		{
+			"title": "Votrient",
+			"subtitle": "Advanced Soft Tissue Sarcoma",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.votrient.com/advanced-soft-tissue-sarcoma/",
+			"date": "04/05/2019 at 10:46:57am",
+			"logo": "https://www.us.votrient.com/globalassets/products44.com/votrient/advanced-renal-cell-carcinoma-rcc/images/logo-vot_dose_4c.png"
+		},
+		{
+			"title": "Votrient",
+			"subtitle": "Error Page",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "votrient.edit.stage.calypso.novartis.episerverhosting.com/error-page/",
+			"date": "07/25/2017 at 12:26:04pm",
+			"logo": "https://www.us.votrient.com/globalassets/products44.com/votrient/advanced-renal-cell-carcinoma-rcc/images/logo-vot_dose_4c.png"
+		},
+		{
+			"title": "Votrient",
+			"subtitle": "Gateway",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "votrient.edit.stage.calypso.novartis.episerverhosting.com/",
+			"date": "07/25/2017 at 12:08:31pm",
+			"logo": "https://www.us.votrient.com/globalassets/products44.com/votrient/advanced-renal-cell-carcinoma-rcc/images/logo-vot_dose_4c.png"
+		},
+		{
+			"title": "Votrient",
+			"subtitle": "Metastatic Renal Cell Carcinoma",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "votrient.edit.stage.calypso.novartis.episerverhosting.com/metastatic-renal-cell-carcinoma/",
+			"date": "07/24/2017 at 11:47:20am",
+			"logo": "https://www.us.votrient.com/globalassets/products44.com/votrient/advanced-renal-cell-carcinoma-rcc/images/logo-vot_dose_4c.png"
+		},
+		{
+			"title": "Zykadia",
+			"subtitle": "ALK-NSCLC",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "zykadia.edit.stage.calypso.novartis.episerverhosting.com/",
+			"date": "05/03/2019 at 03:13:23pm",
+			"logo": "https://www.us.zykadia.com/globalassets/products30.com/zykadia/logo-zykadia-180x65.png"
+		},
+		{
+			"title": "Zykadia",
+			"subtitle": "ALK-NSCLC",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.zykadia.com/",
+			"date": "06/27/2019 at 01:18:38pm",
+			"logo": "https://www.us.zykadia.com/globalassets/products30.com/zykadia/logo-zykadia-180x65.png"
+		},
+		{
+			"title": "Zykadia",
+			"subtitle": "Interim Disclaimer",
+			"type": "Consumer",
+			"status": "Staging",
+			"url": "zykadia.edit.stage.calypso.novartis.episerverhosting.com/interim-disclaimer-page39/",
+			"date": "06/17/2019 at 01:11:05pm",
+			"logo": "https://www.us.zykadia.com/globalassets/products30.com/zykadia/logo-zykadia-180x65.png"
+		},
+		{
+			"title": "Zykadia",
+			"subtitle": "Interim Disclaimer",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.us.zykadia.com/interim-disclaimer-page39/",
+			"date": "06/27/2019 at 01:22:02pm",
+			"logo": "https://www.us.zykadia.com/globalassets/products30.com/zykadia/logo-zykadia-180x65.png"
+		},
+		{
+			"title": "LungNSCLC",
+			"subtitle": "Clinical Trials - Lung",
+			"type": "Unbranded",
+			"status": "Staging",
+			"url": "lung-nsclc.stage.calypso.novartis.episerverhosting.com/",
+			"date": "01/28/2020 at 04:11:29pm",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Trials-Novartis-Oncology",
+			"subtitle": "Trials Novartis Oncology",
+			"type": "Consumer",
+			"status": "Live",
+			"url": "www.trials.novartisoncology.com/",
+			"date": "06/27/2019 at 01:22:02pm",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Trials-Novartis-Oncology",
+			"subtitle": "Trials Novartis Oncology - PROD",
+			"type": "Consumer",
+			"status": "Staging - Prod",
+			"url": "trials-prod.stage.calypso.novartis.episerverhosting.com/",
+			"date": "01/17/2020 at 01:43:40pm",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Trials-Novartis-Oncology",
+			"subtitle": "Trials Novartis Oncology - WIP",
+			"type": "Consumer",
+			"status": "Staging - WIP",
+			"url": "trials.stage.calypso.novartis.episerverhosting.com/",
+			"date": "Wed Apr 29 2020 22:36:11 GMT-0400 (Eastern Daylight Time)",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Sickle-Cell-Steadfast",
+			"subtitle": "Sickle Cell Steadfast - WIP",
+			"type": "Consumer",
+			"status": "Staging - WIP",
+			"url": "trials.stage.calypso.novartis.episerverhosting.com/sickle-cell-steadfast/",
+			"date": "02/20/2020 at 02:21:17pm",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Melanoma-MOD-Video",
+			"subtitle": "Melanoma MOD Video - PROD",
+			"type": "Consumer",
+			"status": "Staging - PROD",
+			"url": "trials-prod.stage.calypso.novartis.episerverhosting.com/Melanoma-MOD-video/",
+			"date": "03/04/2020 at 01:07:35pm",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		},
+		{
+			"title": "Melanoma-MOD-Video",
+			"subtitle": "Melanoma MOD Video - WIP",
+			"type": "Consumer",
+			"status": "Staging - WIP",
+			"url": "trials.stage.calypso.novartis.episerverhosting.com/Melanoma-MOD-video/",
+			"date": "03/05/2020 at 11:00:24am",
+			"logo": "https://www.novartis.com/sites/all/themes/novartis/novartis-logo.svg"
+		}
+	]
+}
