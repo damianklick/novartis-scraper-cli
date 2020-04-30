@@ -29,10 +29,11 @@ inquirer
 ])
 .then(answers => {
     let brand = answers.Brand;
-    console.log(`Your choice: ${brand}`); 
-    rawBrands.filter((site, index) => {
-        site.title === brand;
-        allSites.push(`${brand} <--> ${site.subtitle} <--> ${site.status} <--> ${site.url.slice(0, -1)} <--> ${index} <--> ${site.date}`);
+    console.log(`Your choice: ${brand}`);
+    rawBrands.forEach((site, index) => {
+        if (site.title === brand) {
+            allSites.push(`${brand} <--> ${site.subtitle} <--> ${site.status} <--> ${site.url.slice(0, -1)} <--> ${index} <--> ${site.date}`);
+        }; 
     });
     //second question
     inquirer
